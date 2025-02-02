@@ -1,9 +1,12 @@
-# dannydvorsky.github.io
+# 👋 Hi, I'm Danny Dvorsky
 
-- 👋 Hi, I’m @dannydvorsky
-- 👀 I’m interested in SW development, integrations & automations, hiking, aviation and life overall :)
-- 🌱 I’m currently learning JavaScript, Node.Js and Python
-- 💻 I know basics of HTML, CSS and SQL
-- 📬 how to reach me: dannyodee at gmail
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: As a kid, I was told I will never make living of computers/IT :)
+## 🚀 About Me
+- 👀 Interested in **Software Development**, **Integrations & Automations**, **Hiking**, **Aviation**, and **Life in general**.
+- 🌱 Currently learning **JavaScript**, **Node.js**, and **Python**.
+- 💻 Familiar with **HTML**, **CSS**, and **SQL**.
+
+## 📬 How to Reach Me
+📧 Email: dannyodee at gmail.com  
+
+## 🎉 Fun Fact
+⚡ As a kid, I was told I would never make a living in IT—guess what? 😆
