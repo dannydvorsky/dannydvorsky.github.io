@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danny Dvorsky
+# 👋 Hi, I'm Danny!
 
 ## 🚀 About Me
 - 👀 Interested in **Software Development**, **Integrations & Automations**, **Hiking**, **Aviation**, and **Life in general**.
