@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 - 👀 Interested in **Software Development**, **Integrations & Automations**, **Hiking**, **Aviation**, and **Life in general**.
-- 🌱 Currently learning **JavaScript**, **Node.js**, and **Python**.
+- 🌱 Currently learning **JavaScript**, **Node.js**, and **TypeScript**.
 - 💻 Familiar with **HTML**, **CSS**, and **SQL**.
 
 ## 📬 How to Reach Me
-📧 Email: dannyodee at gmail.com  
+📧 Email: dannyodee at gmail  
 
 ## 🎉 Fun Fact
 ⚡ As a kid, I was told I would never make a living in IT—guess what? 😆
